@@ -13,6 +13,7 @@ This exam, like many exams before it, will be an **open-book, project-driven exa
   - Ceejaymar
   - Dinnall
   - susanahan
+  - mon33k
 - As you continue to work through this project make regular commits because we will be monitoring your commit history for code consistency and educational integrity.
 - Please have a single repository with the following folders:
   - `/backend`: Your express application
