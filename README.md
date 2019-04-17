@@ -49,7 +49,7 @@ The following tables and columns will be necessary:
   - id
   - comment_body
   - user_id - *References Users*
-  - song_id - *References Songs*
+  - show_id - *References Shows*
 
 #### You may use the included [seed.sql](/seed.sql) file.
 
