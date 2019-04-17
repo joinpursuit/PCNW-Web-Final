@@ -85,7 +85,9 @@ Your frontend must include the following routes/pages:
 | <img src='assets/User-Show.png' width='300'> |  **`/show/:id` :** A specific show's profile page for a specific user. Shows the title, image, genre, number of comments and list of comments. Allows you to add new comments. The comment should be reflected immediately on the list without needing to refresh the page.
 | <img src='assets/Shows.png' width='300'> |  **`/shows` :** Masterlist of all the shows. **Don't repeat the same show twice.** For each show list all the users who are watching. Clicking on the name of the user takes you to that specific users' show profile page. We are assuming that the name of the show has to match exactly to be considered the same show.
 
+#### BONUS
 
+Make it so that you can see all the users created in the database and select which one should be the logged in user. Allowing the person using the application to be able to navigate and switch between different logged in users.
 
 
 
